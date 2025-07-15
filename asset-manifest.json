@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toko_online_gaby/static/css/main.e6c13ad2.css",
+    "main.js": "/toko_online_gaby/static/js/main.65d7546b.js",
+    "static/js/453.d395d82a.chunk.js": "/toko_online_gaby/static/js/453.d395d82a.chunk.js",
+    "index.html": "/toko_online_gaby/index.html",
+    "main.e6c13ad2.css.map": "/toko_online_gaby/static/css/main.e6c13ad2.css.map",
+    "main.65d7546b.js.map": "/toko_online_gaby/static/js/main.65d7546b.js.map",
+    "453.d395d82a.chunk.js.map": "/toko_online_gaby/static/js/453.d395d82a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.65d7546b.js"
+  ]
+}

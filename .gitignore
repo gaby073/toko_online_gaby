@@ -1,0 +1,11 @@
+# Node modules
+**/node_modules
+
+# Build folder React
+**/build
+
+# File environment (jangan upload token, koneksi DB, dll)
+.env
+
+# Sampah sistem
+.DS_Store
